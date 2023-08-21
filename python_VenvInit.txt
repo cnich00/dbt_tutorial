@@ -1,0 +1,12 @@
+python -m venv .venv
+.venv/Scripts/activate
+
+...
+
+python -m pip install <???>
+
+
+pip install dbt-duckdb
+
+or without adapter
+pip install dbt-core
